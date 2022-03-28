@@ -33,6 +33,7 @@ function four() {
 
 function five() {
     document.getElementById('flex').style.flexDirection="column"
+    document.getElementById('flex').style.alignItems="center"
 
 }
 
